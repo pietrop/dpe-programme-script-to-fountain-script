@@ -1,0 +1,324 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+  <style>
+  /* originally from https://github.com/BadIdeaFactory/scriptchat/blob/master/src/components/Script.css */
+  body {
+  background-color: #f7f7f7;
+}
+
+#script {
+  margin: 25px auto 0 auto;
+  width: 850px;
+}
+
+#script .page {
+  background: #fff;
+  border: 1px solid #d2d2d2;
+  border-radius: 2px;
+  color: #222;
+  cursor: text;
+  font: Courier, 'Courier New', monospace;
+  letter-spacing: 0 !important;
+  font-family: 'Courier Final Draft', Courier, Courier New, monospace;
+  line-height: 107.5%;
+  margin-bottom: 35px;
+  position: relative;
+  text-align: left;
+  width: 100%;
+  z-index: 200;
+  -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@media only print {
+  #script .page {
+    border: 0;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+  }
+}
+
+@media only screen and (min-width: 0px), only print {
+  #script .page {
+    font-size: 12px;
+    padding: 72px 72px 72px 108px;
+  }
+
+  #script .page h1,
+  #script .page h2,
+  #script .page h3,
+  #script .page h4,
+  #script .page p {
+    font-size: 12px;
+    font-weight: normal;
+  }
+
+  /* US Paper */
+  #script.us-letter {
+    width: 612px;
+  } /* us letter - 72 dpi - 612px x 792px - margins: 1" 1" 1" 1.5" */
+
+  #script.us-letter .page {
+    min-height: 792px;
+  } /* min height temporary until proper paging is implemented */
+
+  #script.us-letter .page.title-page {
+    height: 792px;
+  } /* temp for title page until paging is implemented */
+
+  /* A4 Paper */
+  #script.a4 {
+    width: 595px;
+  } /* us letter - 72 dpi - 595px x 842px - margins: 1" 1" 1" 1.5" */
+
+  #script.a4 .page {
+    height: 842px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  #script .page {
+    font-size: 16px;
+    padding: 100px 100px 100px 150px;
+  }
+
+  #script .page h1,
+  #script .page h2,
+  #script .page h3,
+  #script .page h4,
+  #script .page p {
+    font-size: 17px;
+    font-weight: normal;
+  }
+
+  /* US Paper */
+  #script.us-letter {
+    width: 850px;
+  } /* us letter - 100 dpi - 850px x 1100px - margins: 1" 1" 1" 1.5" */
+
+  #script.us-letter .page {
+    min-height: 1100px;
+  } /* min height temporary until proper paging is implemented */
+
+  #script.us-letter .page.title-page {
+    height: 1100px;
+  } /* temp for title page until paging is implemented */
+
+  #script.a4 {
+    width: 827px;
+  } /* us letter - 72 dpi - 827px x 1169px - margins: 1" 1" 1" 1.5" */
+
+  #script.a4 .page {
+    height: 1169px;
+  }
+}
+
+/* title page */
+#script .title-page h1 {
+  margin-top: 50%;
+  margin-bottom: 34px;
+  text-align: center;
+  width: 90.5%;
+}
+#script .title-page p.credit {
+  text-align: center;
+  width: 90.5%;
+}
+#script .title-page p.author,
+#script .title-page p.authors {
+  margin-bottom: 32px;
+  margin-top: 0;
+  text-align: center;
+  width: 90.5%;
+}
+#script .title-page p.source {
+  margin-bottom: 32px;
+  text-align: center;
+  width: 90.5%;
+}
+#script .title-page p.notes {
+  bottom: 350px;
+  position: absolute;
+  right: 0;
+  text-align: right;
+}
+
+#script .title-page p.date,
+#script .title-page p.draft-date {
+  bottom: 250px;
+  position: absolute;
+  right: 0;
+  text-align: right;
+}
+
+#script .title-page p.contact {
+  bottom: 100px;
+  position: absolute;
+  right: 0;
+  text-align: right;
+}
+
+#script .title-page p.copyright {
+  bottom: 100px;
+  position: absolute;
+  text-align: left;
+}
+
+@media only screen and (min-width: 0px), only print {
+  #script .title-page p.notes {
+    bottom: 252px;
+    right: 72px;
+  }
+
+  #script .title-page p.date,
+  #script .title-page p.draft-date {
+    bottom: 180px;
+    right: 72px;
+  }
+
+  #script .title-page p.contact {
+    bottom: 72px;
+    right: 72px;
+  }
+
+  #script .title-page p.copyright {
+    bottom: 72px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  #script .title-page p.notes {
+    bottom: 350px;
+    right: 100px;
+  }
+
+  #script .title-page p.date,
+  #script .title-page p.draft-date {
+    bottom: 250px;
+    right: 100px;
+  }
+  #script .title-page p.contact {
+    bottom: 100px;
+    right: 100px;
+  }
+  #script .title-page p.copyright {
+    bottom: 100px;
+  }
+}
+
+/* script */
+#script .page h2 {
+  text-align: right;
+}
+#script .page h2.left-aligned {
+  text-align: left;
+}
+#script .page h3 {
+  position: relative;
+}
+#script .page h3:before {
+  color: #bbb;
+  content: attr(id);
+  font-weight: bold;
+  left: -45px;
+  position: absolute;
+}
+#script .page h3:after {
+  color: #bbb;
+  content: attr(id);
+  font-weight: bold;
+  right: -45px;
+  position: absolute;
+}
+
+#script .page div.dialogue {
+  margin-left: auto;
+  margin-right: auto;
+  width: 68%;
+}
+#script .page div.dialogue h4 {
+  margin-bottom: 0;
+  margin-left: 23%;
+}
+#script .page div.dialogue p.parenthetical {
+  margin-bottom: 0;
+  margin-top: 0;
+  margin-left: 11%;
+}
+#script .page div.dialogue p {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+#script .page div.dual-dialogue {
+  margin: 2em 0 0.9em 2%;
+  width: 95%;
+}
+#script .page div.dual-dialogue div.dialogue {
+  display: inline-block;
+  margin: 0;
+  width: 45%;
+}
+#script .page div.dual-dialogue div.dialogue h4 {
+  margin-top: 0;
+}
+#script .page div.dual-dialogue div.dialogue.right {
+  float: right;
+}
+
+#script .page p.centered {
+  text-align: center;
+  width: 92.5%;
+}
+
+#script .page p.section {
+  color: #bbb;
+  margin-left: -30px;
+}
+#script .page p.synopsis {
+  color: #bbb;
+  margin-left: -20px;
+}
+
+#script .page span.italic {
+  font-style: italic;
+}
+#script .page span.bold {
+  font-weight: bold;
+}
+#script .page span.underline {
+  text-decoration: underline;
+}
+
+.comment {
+    color: #cccccc;
+    font-style: italic;
+    margin: 16px 0;
+    white-space: pre-wrap;
+}
+  </style>
+  
+
+</head>
+
+<body>
+  <div id="script" class="us-letter">
+      <div class="page title-page"><h1>Test</h1></div>
+      <div
+        class="page"><h3>SOME PLACE HOLDER TEXT TITLE</h3><div class="dialogue"><h4>NAOMI GLEIT</h4><p>rted when I was 21 in 2005, and there have been a lot of ups and downs and intense periods of my career here, but definite</p></div> <div class="dialogue"><h4>SOLEIO CUERVO</h4><p>d it became quickly apparent to me that, one, they had very lofty aspirations or ambitions for this company that they were build</p></div> <div class="dialogue"><h4>SOLEIO CUERVO</h4><p>wo, they seemed a little bit too smart to be working on social networ</p></div> <h3>SOME PLACE HOLDER TEXT TITLE</h3><p>Some place holder text voice over</p><div class="comment">Some place holder text Notes</div><div class="dialogue"><h4>SOLEIO CUERVO</h4><p>at I had shipped that summer caught some traction in the design community and won a couple of awards and somehow ended up on the</p></div> <p>Some place holder text voice over</p><div class="dialogue"><h4>NAOMI GLEIT</h4><p>I’ve been at Facebook, just as some background, for almost 13 years. I started when I was 21 in 2005, and there have been a lot of ups and do</p></div> <div class="dialogue"><h4>GUY ROSEN</h4><p>So let me step back and explain how my role works. So I’m responsible overall for the safety and security work at Facebook and I appr</p></div> <h3>TEST TITLE</h3><div class="dialogue"><h4>SOLEIO CUERVO</h4><p>s and somehow ended up on the plate of an early em</p></div> <div class="dialogue"><h4>NAOMI GLEIT</h4><p>hen I was 21 in 2005, and there have been a lot of ups and downs and intense periods of my career here, but definitely t</p></div> <div class="dialogue"><h4>GUY ROSEN</h4><p>o let me step back and explain how my role works. So I’m responsible overall for the safety and secur</p></div> <div class="dialogue"><h4>NATHAN GLEICHER</h4><p>sed on is not just around elections, but any time you have open public debate like this, there are going to be actors</p></div> <div class="dialogue"><h4>NATHAN GLEICHER</h4><p>o we figure out what are the techniques they’re using, and how do we make it much h</p></div> <p>Voice over text</p><div class="dialogue"><h4>NATHAN GLEICHER</h4><p>focused on is not just around elections, but any time you have open public</p></div> <div class="comment">some notes</div><div class="dialogue"><h4>NATHAN GLEICHER</h4><p>n is not just around elections, but any time you have open public debate like this, there are going to be actors t</p></div> <div class="dialogue"><h4>NATHAN GLEICHER</h4><p>on is not just around elections, but any time you have open public debate like this, there are going to be actors th</p></div> <div class="dialogue"><h4>NATHAN GLEICHER</h4><p>eer has been focused on how technology and society interact. Technology has this incredible potential to make things better, to encourage commu</p></div> <div class="dialogue"><h4>JAMES JACOBY</h4><p>backward for one second, tell me the circumstances of you arriving here at Facebook. What were they? Bring me through t</p></div> <div class="dialogue"><h4>NAOMI GLEIT</h4><p>when I was 21 in 2005, and there have been a lot of ups and downs and intense periods of my career here, but definitely the past few years have been</p></div> <div class="dialogue"><h4>SOLEIO CUERVO</h4><p>r and developer working in San Francisco. And a project that I had shipped that summer caught</p></div> <div class="dialogue"><h4>JAMES JACOBY</h4><p>xactly, and what were you thinking about it?</p></div> <div class="dialogue"><h4>NATHAN GLEICHER</h4><p>There are a number of different teams that work on information operations or man</p></div> 
+      </div>
+    </div>
+</body>
+</html>

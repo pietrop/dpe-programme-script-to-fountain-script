@@ -1,0 +1,3377 @@
+{
+  "title": "Test",
+  "events": [
+    {
+      "id": 1,
+      "index": 6,
+      "type": "title",
+      "text": "Some place holder text title"
+    },
+    {
+      "id": 2,
+      "index": 7,
+      "type": "paper-cut",
+      "start": 26.29,
+      "end": 36.21,
+      "speaker": "Naomi Gleit",
+      "words": [
+        {
+          "start": 26.29,
+          "end": 26.54,
+          "text": "rted ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 26.54,
+          "end": 26.64,
+          "text": "when ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 26.64,
+          "end": 26.69,
+          "text": "I ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 26.69,
+          "end": 26.82,
+          "text": "was ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 27.095000000000002,
+          "end": 27.2825,
+          "text": "21 ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 27.500000000000004,
+          "end": 27.744999999999997,
+          "text": "in ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 27.905,
+          "end": 28.207500000000003,
+          "text": "2005, ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 28.31,
+          "end": 28.67,
+          "text": "and ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 28.67,
+          "end": 28.85,
+          "text": "there ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 28.85,
+          "end": 29.06,
+          "text": "have ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 29.06,
+          "end": 29.39,
+          "text": "been ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 29.39,
+          "end": 29.51,
+          "text": "a ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 29.51,
+          "end": 29.92,
+          "text": "lot ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 29.92,
+          "end": 31.04,
+          "text": "of ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.04,
+          "end": 31.31,
+          "text": "ups ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.31,
+          "end": 31.41,
+          "text": "and ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.41,
+          "end": 31.87,
+          "text": "downs ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.87,
+          "end": 31.96,
+          "text": "and ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.96,
+          "end": 32.46,
+          "text": "intense ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 32.46,
+          "end": 33.36,
+          "text": "periods ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 33.36,
+          "end": 33.91,
+          "text": "of ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 33.91,
+          "end": 34.09,
+          "text": "my ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 34.09,
+          "end": 34.52,
+          "text": "career ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 34.52,
+          "end": 35.6,
+          "text": "here, ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 35.6,
+          "end": 35.87,
+          "text": "but ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 35.87,
+          "end": 36.21,
+          "text": "definite",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1002cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Naomi+Gleit-l-Ivr6kq6fk.mp4",
+      "startTime": 26.29,
+      "endTime": 36.21,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Naomi Gleit-l-Ivr6kq6fk.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 3,
+      "index": 8,
+      "type": "paper-cut",
+      "start": 62.32,
+      "end": 71.31,
+      "speaker": "Soleio Cuervo",
+      "words": [
+        {
+          "start": 62.32,
+          "end": 62.9,
+          "text": "d ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 62.9,
+          "end": 63.01,
+          "text": "it ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 63.01,
+          "end": 63.3,
+          "text": "became ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 63.3,
+          "end": 63.59,
+          "text": "quickly ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 63.59,
+          "end": 63.85,
+          "text": "apparent ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 63.85,
+          "end": 63.91,
+          "text": "to ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 63.91,
+          "end": 63.99,
+          "text": "me ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 63.99,
+          "end": 64.17,
+          "text": "that, ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 64.17,
+          "end": 64.93,
+          "text": "one, ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 64.93,
+          "end": 65.06,
+          "text": "they ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 65.06,
+          "end": 65.23,
+          "text": "had ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 65.23,
+          "end": 65.57,
+          "text": "very ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 65.57,
+          "end": 66.76,
+          "text": "lofty ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 66.76,
+          "end": 67.66,
+          "text": "aspirations ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 67.66,
+          "end": 67.77,
+          "text": "or ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 67.77,
+          "end": 68.31,
+          "text": "ambitions ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 68.31,
+          "end": 69.31,
+          "text": "for ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 69.31,
+          "end": 69.47,
+          "text": "this ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 69.47,
+          "end": 69.88,
+          "text": "company ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 69.655,
+          "end": 70.2375,
+          "text": "that ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 69.84,
+          "end": 70.595,
+          "text": "they ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 70.02499999999999,
+          "end": 70.9525,
+          "text": "were ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 70.21,
+          "end": 71.31,
+          "text": "build",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1000cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Soleio+Cuervo-OIAUfZBd_7w.mp4",
+      "startTime": 62.32,
+      "endTime": 71.31,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Soleio Cuervo-OIAUfZBd_7w.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 4,
+      "index": 6,
+      "type": "paper-cut",
+      "start": 71.73,
+      "end": 76.27,
+      "speaker": "Soleio Cuervo",
+      "words": [
+        {
+          "start": 71.73,
+          "end": 72.05,
+          "text": "wo, ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 72.05,
+          "end": 72.89,
+          "text": "they ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 72.89,
+          "end": 73.14,
+          "text": "seemed ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 73.14,
+          "end": 73.17,
+          "text": "a ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 73.17,
+          "end": 73.34,
+          "text": "little ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 73.34,
+          "end": 73.45,
+          "text": "bit ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 73.45,
+          "end": 73.61,
+          "text": "too ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 73.61,
+          "end": 73.93,
+          "text": "smart ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 73.93,
+          "end": 74,
+          "text": "to ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 74,
+          "end": 74.09,
+          "text": "be ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 74.09,
+          "end": 74.42,
+          "text": "working ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 74.42,
+          "end": 74.52,
+          "text": "on ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 74.52,
+          "end": 74.85,
+          "text": "social ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 74.85,
+          "end": 76.27,
+          "text": "networ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1000cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Soleio+Cuervo-OIAUfZBd_7w.mp4",
+      "startTime": 71.73,
+      "endTime": 76.27,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Soleio Cuervo-OIAUfZBd_7w.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 5,
+      "index": 9,
+      "type": "title",
+      "text": "Some place holder text title"
+    },
+    {
+      "id": 6,
+      "index": 10,
+      "type": "voice-over",
+      "text": "Some place holder text voice over"
+    },
+    {
+      "id": 7,
+      "index": 11,
+      "type": "note",
+      "text": "Some place holder text Notes"
+    },
+    {
+      "id": 8,
+      "index": 5,
+      "type": "paper-cut",
+      "start": 15.86,
+      "end": 23.270000000000003,
+      "speaker": "Soleio Cuervo",
+      "words": [
+        {
+          "start": 15.86,
+          "end": 15.99,
+          "text": "at ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.0125,
+          "end": 16.1575,
+          "text": "I ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.165,
+          "end": 16.325,
+          "text": "had ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.3175,
+          "end": 16.4925,
+          "text": "shipped ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.47,
+          "end": 16.66,
+          "text": "that ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.66,
+          "end": 18.11,
+          "text": "summer ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 18.11,
+          "end": 18.35,
+          "text": "caught ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 18.35,
+          "end": 18.54,
+          "text": "some ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 18.71,
+          "end": 18.884999999999998,
+          "text": "traction ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 19.07,
+          "end": 19.23,
+          "text": "in ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 19.23,
+          "end": 19.31,
+          "text": "the ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 19.31,
+          "end": 19.62,
+          "text": "design ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 19.62,
+          "end": 20.13,
+          "text": "community ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 19.965,
+          "end": 20.354999999999997,
+          "text": "and ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 20.31,
+          "end": 20.58,
+          "text": "won ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 20.58,
+          "end": 20.62,
+          "text": "a ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 20.62,
+          "end": 20.86,
+          "text": "couple ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 20.86,
+          "end": 20.92,
+          "text": "of ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 20.92,
+          "end": 22.01,
+          "text": "awards ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.01,
+          "end": 22.17,
+          "text": "and ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.17,
+          "end": 22.54,
+          "text": "somehow ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.54,
+          "end": 22.75,
+          "text": "ended ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.75,
+          "end": 22.89,
+          "text": "up ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.89,
+          "end": 23.03,
+          "text": "on ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.995,
+          "end": 23.270000000000003,
+          "text": "the ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1000cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Soleio+Cuervo-OIAUfZBd_7w.mp4",
+      "startTime": 15.86,
+      "endTime": 23.270000000000003,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Soleio Cuervo-OIAUfZBd_7w.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 9,
+      "index": 7,
+      "type": "voice-over",
+      "text": "Some place holder text voice over"
+    },
+    {
+      "id": 10,
+      "index": 3,
+      "type": "paper-cut",
+      "start": 21.53,
+      "end": 31.87,
+      "speaker": "Naomi Gleit",
+      "words": [
+        {
+          "start": "21.53",
+          "end": "21.66",
+          "text": "I’ve ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "21.66",
+          "end": "21.78",
+          "text": "been ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "21.78",
+          "end": "21.91",
+          "text": "at ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "21.91",
+          "end": "22.37",
+          "text": "Facebook, ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "22.37",
+          "end": "22.61",
+          "text": "just ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "22.61",
+          "end": "22.76",
+          "text": "as ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "22.76",
+          "end": "22.96",
+          "text": "some ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "22.96",
+          "end": "23.54",
+          "text": "background, ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "23.54",
+          "end": "24.05",
+          "text": "for ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "24.05",
+          "end": "24.35",
+          "text": "almost ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "24.35",
+          "end": "24.7",
+          "text": "13 ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "24.7",
+          "end": "26.16",
+          "text": "years. ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "26.16",
+          "end": "26.29",
+          "text": "I ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "26.29",
+          "end": "26.54",
+          "text": "started ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "26.54",
+          "end": "26.64",
+          "text": "when ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "26.64",
+          "end": "26.69",
+          "text": "I ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "26.69",
+          "end": "26.82",
+          "text": "was ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "27.095000000000002",
+          "end": "27.2825",
+          "text": "21 ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "27.500000000000004",
+          "end": "27.744999999999997",
+          "text": "in ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "27.905",
+          "end": "28.207500000000003",
+          "text": "2005, ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "28.31",
+          "end": "28.67",
+          "text": "and ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "28.67",
+          "end": "28.85",
+          "text": "there ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "28.85",
+          "end": "29.06",
+          "text": "have ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "29.06",
+          "end": "29.39",
+          "text": "been ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "29.39",
+          "end": "29.51",
+          "text": "a ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "29.51",
+          "end": "29.92",
+          "text": "lot ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "29.92",
+          "end": "31.04",
+          "text": "of ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "31.04",
+          "end": "31.31",
+          "text": "ups ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "31.31",
+          "end": "31.41",
+          "text": "and ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "31.41",
+          "end": "31.87",
+          "text": "do",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1002cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Naomi+Gleit-l-Ivr6kq6fk.mp4",
+      "startTime": 21.53,
+      "endTime": 31.87,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Naomi Gleit-l-Ivr6kq6fk.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 11,
+      "index": 4,
+      "type": "paper-cut",
+      "start": 15.84,
+      "end": 24.78,
+      "speaker": "Guy Rosen",
+      "words": [
+        {
+          "start": "15.84",
+          "end": "16.71",
+          "text": "So ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "16.71",
+          "end": "16.95",
+          "text": "let ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "16.95",
+          "end": "17.08",
+          "text": "me ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "17.08",
+          "end": "17.28",
+          "text": "step ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "17.28",
+          "end": "17.56",
+          "text": "back ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "17.56",
+          "end": "17.65",
+          "text": "and ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "17.65",
+          "end": "18.17",
+          "text": "explain ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "18.17",
+          "end": "18.81",
+          "text": "how ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "18.81",
+          "end": "18.95",
+          "text": "my ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "18.95",
+          "end": "19.19",
+          "text": "role ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "19.310000000000002",
+          "end": "19.675",
+          "text": "works. ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "19.67",
+          "end": "20.16",
+          "text": "So ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "20.03",
+          "end": "20.645",
+          "text": "I’m ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "20.39",
+          "end": "21.13",
+          "text": "responsible ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "21.13",
+          "end": "21.59",
+          "text": "overall ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "21.59",
+          "end": "21.74",
+          "text": "for ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "21.74",
+          "end": "22.04",
+          "text": "the ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "22.04",
+          "end": "22.39",
+          "text": "safety ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "22.39",
+          "end": "22.49",
+          "text": "and ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "22.49",
+          "end": "22.89",
+          "text": "security ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "22.89",
+          "end": "23.22",
+          "text": "work ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "23.22",
+          "end": "23.37",
+          "text": "at ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "23.37",
+          "end": "24.24",
+          "text": "Facebook ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "23.93",
+          "end": "24.38",
+          "text": "and ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "24.155",
+          "end": "24.58",
+          "text": "I ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": "24.38",
+          "end": "24.78",
+          "text": "appr",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1003cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Guy+Rosen-4sGvc84tNik.mp4",
+      "startTime": 15.84,
+      "endTime": 24.78,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Guy Rosen-4sGvc84tNik.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 12,
+      "index": 12,
+      "type": "title",
+      "text": "Test title "
+    },
+    {
+      "id": 13,
+      "index": 13,
+      "type": "paper-cut",
+      "start": 20.92,
+      "end": 24.8,
+      "speaker": "Soleio Cuervo",
+      "words": [
+        {
+          "start": 20.92,
+          "end": 22.01,
+          "text": "s ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.01,
+          "end": 22.17,
+          "text": "and ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.17,
+          "end": 22.54,
+          "text": "somehow ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.54,
+          "end": 22.75,
+          "text": "ended ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.75,
+          "end": 22.89,
+          "text": "up ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.89,
+          "end": 23.03,
+          "text": "on ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.995,
+          "end": 23.270000000000003,
+          "text": "the ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 23.1,
+          "end": 23.51,
+          "text": "plate ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 23.51,
+          "end": 23.87,
+          "text": "of ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 23.87,
+          "end": 23.97,
+          "text": "an ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 23.97,
+          "end": 24.18,
+          "text": "early ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 24.18,
+          "end": 24.8,
+          "text": "em",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1000cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Soleio+Cuervo-OIAUfZBd_7w.mp4",
+      "startTime": 20.92,
+      "endTime": 24.8,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Soleio Cuervo-OIAUfZBd_7w.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 14,
+      "index": 14,
+      "type": "paper-cut",
+      "start": 26.54,
+      "end": 36.3,
+      "speaker": "Naomi Gleit",
+      "words": [
+        {
+          "start": 26.54,
+          "end": 26.64,
+          "text": "hen ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 26.64,
+          "end": 26.69,
+          "text": "I ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 26.69,
+          "end": 26.82,
+          "text": "was ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 27.095000000000002,
+          "end": 27.2825,
+          "text": "21 ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 27.500000000000004,
+          "end": 27.744999999999997,
+          "text": "in ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 27.905,
+          "end": 28.207500000000003,
+          "text": "2005, ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 28.31,
+          "end": 28.67,
+          "text": "and ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 28.67,
+          "end": 28.85,
+          "text": "there ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 28.85,
+          "end": 29.06,
+          "text": "have ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 29.06,
+          "end": 29.39,
+          "text": "been ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 29.39,
+          "end": 29.51,
+          "text": "a ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 29.51,
+          "end": 29.92,
+          "text": "lot ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 29.92,
+          "end": 31.04,
+          "text": "of ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.04,
+          "end": 31.31,
+          "text": "ups ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.31,
+          "end": 31.41,
+          "text": "and ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.41,
+          "end": 31.87,
+          "text": "downs ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.87,
+          "end": 31.96,
+          "text": "and ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.96,
+          "end": 32.46,
+          "text": "intense ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 32.46,
+          "end": 33.36,
+          "text": "periods ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 33.36,
+          "end": 33.91,
+          "text": "of ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 33.91,
+          "end": 34.09,
+          "text": "my ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 34.09,
+          "end": 34.52,
+          "text": "career ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 34.52,
+          "end": 35.6,
+          "text": "here, ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 35.6,
+          "end": 35.87,
+          "text": "but ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 35.87,
+          "end": 36.21,
+          "text": "definitely ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 36.21,
+          "end": 36.3,
+          "text": "t",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1002cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Naomi+Gleit-l-Ivr6kq6fk.mp4",
+      "startTime": 26.54,
+      "endTime": 36.3,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Naomi Gleit-l-Ivr6kq6fk.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 15,
+      "index": 15,
+      "type": "paper-cut",
+      "start": 15.84,
+      "end": 22.89,
+      "speaker": "Guy Rosen",
+      "words": [
+        {
+          "start": 15.84,
+          "end": 16.71,
+          "text": "o ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.71,
+          "end": 16.95,
+          "text": "let ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.95,
+          "end": 17.08,
+          "text": "me ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.08,
+          "end": 17.28,
+          "text": "step ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.28,
+          "end": 17.56,
+          "text": "back ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.56,
+          "end": 17.65,
+          "text": "and ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.65,
+          "end": 18.17,
+          "text": "explain ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 18.17,
+          "end": 18.81,
+          "text": "how ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 18.81,
+          "end": 18.95,
+          "text": "my ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 18.95,
+          "end": 19.19,
+          "text": "role ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 19.310000000000002,
+          "end": 19.675,
+          "text": "works. ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 19.67,
+          "end": 20.16,
+          "text": "So ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 20.03,
+          "end": 20.645,
+          "text": "I’m ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 20.39,
+          "end": 21.13,
+          "text": "responsible ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 21.13,
+          "end": 21.59,
+          "text": "overall ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 21.59,
+          "end": 21.74,
+          "text": "for ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 21.74,
+          "end": 22.04,
+          "text": "the ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.04,
+          "end": 22.39,
+          "text": "safety ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.39,
+          "end": 22.49,
+          "text": "and ",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.49,
+          "end": 22.89,
+          "text": "secur",
+          "speaker": "Guy Rosen",
+          "transcriptId": "1003cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1003cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Guy+Rosen-4sGvc84tNik.mp4",
+      "startTime": 15.84,
+      "endTime": 22.89,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Guy Rosen-4sGvc84tNik.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 16,
+      "index": 16,
+      "type": "paper-cut",
+      "start": 12.64,
+      "end": 18.39,
+      "speaker": "Nathan Gleicher",
+      "words": [
+        {
+          "start": 12.64,
+          "end": 13.02,
+          "text": "sed ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 13.02,
+          "end": 13.28,
+          "text": "on ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 13.28,
+          "end": 14.16,
+          "text": "is ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.16,
+          "end": 14.41,
+          "text": "not ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.41,
+          "end": 14.58,
+          "text": "just ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.58,
+          "end": 14.8,
+          "text": "around ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.180000000000001,
+          "end": 15.379999999999999,
+          "text": "elections, ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.78,
+          "end": 15.96,
+          "text": "but ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.96,
+          "end": 16.15,
+          "text": "any ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.15,
+          "end": 16.34,
+          "text": "time ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.34,
+          "end": 16.41,
+          "text": "you ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.41,
+          "end": 16.53,
+          "text": "have ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.53,
+          "end": 16.74,
+          "text": "open ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.74,
+          "end": 16.98,
+          "text": "public ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.98,
+          "end": 17.25,
+          "text": "debate ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.25,
+          "end": 17.41,
+          "text": "like ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.4,
+          "end": 17.63,
+          "text": "this, ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.502,
+          "end": 17.706,
+          "text": "there ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.604,
+          "end": 17.782,
+          "text": "are ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.706,
+          "end": 17.858,
+          "text": "going ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.808,
+          "end": 17.934,
+          "text": "to ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.91,
+          "end": 18.01,
+          "text": "be ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 18.01,
+          "end": 18.39,
+          "text": "actors",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1001cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Nathaniel+Gleicher-F0ykdaOck_M.mp4",
+      "startTime": 12.64,
+      "endTime": 18.39,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Nathaniel Gleicher-F0ykdaOck_M.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 17,
+      "index": 17,
+      "type": "paper-cut",
+      "start": 20.68,
+      "end": 25.4,
+      "speaker": "Nathan Gleicher",
+      "words": [
+        {
+          "start": 20.68,
+          "end": 20.76,
+          "text": "o ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 20.76,
+          "end": 20.86,
+          "text": "we ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 20.86,
+          "end": 21.16,
+          "text": "figure ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 21.16,
+          "end": 22.04,
+          "text": "out ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.04,
+          "end": 22.29,
+          "text": "what ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.29,
+          "end": 22.35,
+          "text": "are ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.35,
+          "end": 22.42,
+          "text": "the ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.42,
+          "end": 22.79,
+          "text": "techniques ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.79,
+          "end": 22.9,
+          "text": "they’re ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 22.9,
+          "end": 23.71,
+          "text": "using, ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 23.71,
+          "end": 23.85,
+          "text": "and ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 23.85,
+          "end": 23.93,
+          "text": "how ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 23.93,
+          "end": 24,
+          "text": "do ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 24,
+          "end": 24.07,
+          "text": "we ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 24.07,
+          "end": 24.22,
+          "text": "make ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 24.22,
+          "end": 24.29,
+          "text": "it ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 24.29,
+          "end": 24.48,
+          "text": "much ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 24.48,
+          "end": 25.4,
+          "text": "h",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1001cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Nathaniel+Gleicher-F0ykdaOck_M.mp4",
+      "startTime": 20.68,
+      "endTime": 25.4,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Nathaniel Gleicher-F0ykdaOck_M.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 18,
+      "index": 18,
+      "type": "voice-over",
+      "text": "Voice over text"
+    },
+    {
+      "id": 19,
+      "index": 19,
+      "type": "paper-cut",
+      "start": 12.64,
+      "end": 16.98,
+      "speaker": "Nathan Gleicher",
+      "words": [
+        {
+          "start": 12.64,
+          "end": 13.02,
+          "text": "focused ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 13.02,
+          "end": 13.28,
+          "text": "on ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 13.28,
+          "end": 14.16,
+          "text": "is ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.16,
+          "end": 14.41,
+          "text": "not ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.41,
+          "end": 14.58,
+          "text": "just ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.58,
+          "end": 14.8,
+          "text": "around ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.180000000000001,
+          "end": 15.379999999999999,
+          "text": "elections, ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.78,
+          "end": 15.96,
+          "text": "but ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.96,
+          "end": 16.15,
+          "text": "any ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.15,
+          "end": 16.34,
+          "text": "time ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.34,
+          "end": 16.41,
+          "text": "you ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.41,
+          "end": 16.53,
+          "text": "have ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.53,
+          "end": 16.74,
+          "text": "open ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.74,
+          "end": 16.98,
+          "text": "public ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1001cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Nathaniel+Gleicher-F0ykdaOck_M.mp4",
+      "startTime": 12.64,
+      "endTime": 16.98,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Nathaniel Gleicher-F0ykdaOck_M.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 20,
+      "index": 20,
+      "type": "note",
+      "text": "some notes"
+    },
+    {
+      "id": 21,
+      "index": 21,
+      "type": "paper-cut",
+      "start": 13.02,
+      "end": 18.49,
+      "speaker": "Nathan Gleicher",
+      "words": [
+        {
+          "start": 13.02,
+          "end": 13.28,
+          "text": "n ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 13.28,
+          "end": 14.16,
+          "text": "is ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.16,
+          "end": 14.41,
+          "text": "not ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.41,
+          "end": 14.58,
+          "text": "just ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.58,
+          "end": 14.8,
+          "text": "around ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.180000000000001,
+          "end": 15.379999999999999,
+          "text": "elections, ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.78,
+          "end": 15.96,
+          "text": "but ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.96,
+          "end": 16.15,
+          "text": "any ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.15,
+          "end": 16.34,
+          "text": "time ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.34,
+          "end": 16.41,
+          "text": "you ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.41,
+          "end": 16.53,
+          "text": "have ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.53,
+          "end": 16.74,
+          "text": "open ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.74,
+          "end": 16.98,
+          "text": "public ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.98,
+          "end": 17.25,
+          "text": "debate ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.25,
+          "end": 17.41,
+          "text": "like ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.4,
+          "end": 17.63,
+          "text": "this, ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.502,
+          "end": 17.706,
+          "text": "there ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.604,
+          "end": 17.782,
+          "text": "are ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.706,
+          "end": 17.858,
+          "text": "going ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.808,
+          "end": 17.934,
+          "text": "to ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.91,
+          "end": 18.01,
+          "text": "be ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 18.01,
+          "end": 18.39,
+          "text": "actors ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 18.39,
+          "end": 18.49,
+          "text": "t",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1001cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Nathaniel+Gleicher-F0ykdaOck_M.mp4",
+      "startTime": 13.02,
+      "endTime": 18.49,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Nathaniel Gleicher-F0ykdaOck_M.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 22,
+      "index": 22,
+      "type": "paper-cut",
+      "start": 13.02,
+      "end": 18.49,
+      "speaker": "Nathan Gleicher",
+      "words": [
+        {
+          "start": 13.02,
+          "end": 13.28,
+          "text": "on ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 13.28,
+          "end": 14.16,
+          "text": "is ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.16,
+          "end": 14.41,
+          "text": "not ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.41,
+          "end": 14.58,
+          "text": "just ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.58,
+          "end": 14.8,
+          "text": "around ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.180000000000001,
+          "end": 15.379999999999999,
+          "text": "elections, ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.78,
+          "end": 15.96,
+          "text": "but ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.96,
+          "end": 16.15,
+          "text": "any ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.15,
+          "end": 16.34,
+          "text": "time ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.34,
+          "end": 16.41,
+          "text": "you ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.41,
+          "end": 16.53,
+          "text": "have ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.53,
+          "end": 16.74,
+          "text": "open ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.74,
+          "end": 16.98,
+          "text": "public ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.98,
+          "end": 17.25,
+          "text": "debate ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.25,
+          "end": 17.41,
+          "text": "like ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.4,
+          "end": 17.63,
+          "text": "this, ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.502,
+          "end": 17.706,
+          "text": "there ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.604,
+          "end": 17.782,
+          "text": "are ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.706,
+          "end": 17.858,
+          "text": "going ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.808,
+          "end": 17.934,
+          "text": "to ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 17.91,
+          "end": 18.01,
+          "text": "be ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 18.01,
+          "end": 18.39,
+          "text": "actors ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 18.39,
+          "end": 18.49,
+          "text": "th",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1001cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Nathaniel+Gleicher-F0ykdaOck_M.mp4",
+      "startTime": 13.02,
+      "endTime": 18.49,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Nathaniel Gleicher-F0ykdaOck_M.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 23,
+      "index": 23,
+      "type": "paper-cut",
+      "start": 99.61,
+      "end": 110.1,
+      "speaker": "Nathan Gleicher",
+      "words": [
+        {
+          "start": 99.61,
+          "end": 100.12,
+          "text": "eer ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 100.12,
+          "end": 100.25,
+          "text": "has ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 100.25,
+          "end": 100.37,
+          "text": "been ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 100.37,
+          "end": 100.84,
+          "text": "focused ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 100.84,
+          "end": 101.4,
+          "text": "on ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 101.4,
+          "end": 101.85,
+          "text": "how ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 101.85,
+          "end": 102.41,
+          "text": "technology ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 102.41,
+          "end": 102.51,
+          "text": "and ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 102.51,
+          "end": 103.54,
+          "text": "society ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 103.54,
+          "end": 104.84,
+          "text": "interact. ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 104.84,
+          "end": 105.44,
+          "text": "Technology ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 105.44,
+          "end": 105.62,
+          "text": "has ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 105.60499999999999,
+          "end": 105.895,
+          "text": "this ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 105.77,
+          "end": 106.17,
+          "text": "incredible ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 106.17,
+          "end": 106.8,
+          "text": "potential ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 106.8,
+          "end": 106.94,
+          "text": "to ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 106.94,
+          "end": 107.2,
+          "text": "make ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 107.2,
+          "end": 107.58,
+          "text": "things ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 107.58,
+          "end": 108.05,
+          "text": "better, ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 108.05,
+          "end": 108.82,
+          "text": "to ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 108.82,
+          "end": 109.21,
+          "text": "encourage ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 109.21,
+          "end": 110.1,
+          "text": "commu",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1001cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Nathaniel+Gleicher-F0ykdaOck_M.mp4",
+      "startTime": 99.61,
+      "endTime": 110.1,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Nathaniel Gleicher-F0ykdaOck_M.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 24,
+      "index": 24,
+      "type": "paper-cut",
+      "start": 82.59499999999997,
+      "end": 91.85,
+      "speaker": "James Jacoby",
+      "words": [
+        {
+          "start": 82.59499999999997,
+          "end": 83.625,
+          "text": "backward ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 83.74,
+          "end": 83.93,
+          "text": "for ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 83.93,
+          "end": 84.11,
+          "text": "one ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 84.44,
+          "end": 84.62499999999999,
+          "text": "second, ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 84.95,
+          "end": 85.14,
+          "text": "tell ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 85.14,
+          "end": 85.55,
+          "text": "me ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 85.55,
+          "end": 85.68,
+          "text": "the ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 85.68,
+          "end": 86.43,
+          "text": "circumstances ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 86.43,
+          "end": 86.56,
+          "text": "of ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 86.72000000000001,
+          "end": 87.07500000000002,
+          "text": "you ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 87.01,
+          "end": 87.59,
+          "text": "arriving ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 87.6675,
+          "end": 88.16499999999999,
+          "text": "here ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 88.325,
+          "end": 88.73999999999998,
+          "text": "at ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 88.9825,
+          "end": 89.315,
+          "text": "Facebook. ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 89.64,
+          "end": 89.89,
+          "text": "What ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 89.89,
+          "end": 90.13,
+          "text": "were ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 90.13,
+          "end": 90.89,
+          "text": "they? ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 90.89,
+          "end": 91.14,
+          "text": "Bring ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 91.14,
+          "end": 91.25,
+          "text": "me ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 91.25,
+          "end": 91.52,
+          "text": "through ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 91.52,
+          "end": 91.85,
+          "text": "t",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1001cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Nathaniel+Gleicher-F0ykdaOck_M.mp4",
+      "startTime": 82.59499999999997,
+      "endTime": 91.85,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Nathaniel Gleicher-F0ykdaOck_M.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 25,
+      "index": 25,
+      "type": "paper-cut",
+      "start": 26.29,
+      "end": 37.42,
+      "speaker": "Naomi Gleit",
+      "words": [
+        {
+          "start": 26.29,
+          "end": 26.54,
+          "text": " ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 26.54,
+          "end": 26.64,
+          "text": "when ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 26.64,
+          "end": 26.69,
+          "text": "I ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 26.69,
+          "end": 26.82,
+          "text": "was ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 27.095000000000002,
+          "end": 27.2825,
+          "text": "21 ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 27.500000000000004,
+          "end": 27.744999999999997,
+          "text": "in ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 27.905,
+          "end": 28.207500000000003,
+          "text": "2005, ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 28.31,
+          "end": 28.67,
+          "text": "and ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 28.67,
+          "end": 28.85,
+          "text": "there ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 28.85,
+          "end": 29.06,
+          "text": "have ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 29.06,
+          "end": 29.39,
+          "text": "been ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 29.39,
+          "end": 29.51,
+          "text": "a ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 29.51,
+          "end": 29.92,
+          "text": "lot ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 29.92,
+          "end": 31.04,
+          "text": "of ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.04,
+          "end": 31.31,
+          "text": "ups ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.31,
+          "end": 31.41,
+          "text": "and ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.41,
+          "end": 31.87,
+          "text": "downs ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.87,
+          "end": 31.96,
+          "text": "and ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 31.96,
+          "end": 32.46,
+          "text": "intense ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 32.46,
+          "end": 33.36,
+          "text": "periods ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 33.36,
+          "end": 33.91,
+          "text": "of ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 33.91,
+          "end": 34.09,
+          "text": "my ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 34.09,
+          "end": 34.52,
+          "text": "career ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 34.52,
+          "end": 35.6,
+          "text": "here, ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 35.6,
+          "end": 35.87,
+          "text": "but ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 35.87,
+          "end": 36.21,
+          "text": "definitely ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 36.21,
+          "end": 36.3,
+          "text": "the ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 36.3,
+          "end": 36.57,
+          "text": "past ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 36.57,
+          "end": 36.67,
+          "text": "few ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 36.67,
+          "end": 36.94,
+          "text": "years ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 36.94,
+          "end": 37.09,
+          "text": "have ",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 37.09,
+          "end": 37.42,
+          "text": "been",
+          "speaker": "Naomi Gleit",
+          "transcriptId": "1002cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1002cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Naomi+Gleit-l-Ivr6kq6fk.mp4",
+      "startTime": 26.29,
+      "endTime": 37.42,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Naomi Gleit-l-Ivr6kq6fk.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 26,
+      "index": 26,
+      "type": "paper-cut",
+      "start": 12.34,
+      "end": 18.35,
+      "speaker": "Soleio Cuervo",
+      "words": [
+        {
+          "start": 12.34,
+          "end": 12.67,
+          "text": "r ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 12.67,
+          "end": 12.76,
+          "text": "and ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 12.76,
+          "end": 13.29,
+          "text": "developer ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 13.29,
+          "end": 13.62,
+          "text": "working ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 13.62,
+          "end": 13.72,
+          "text": "in ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 13.72,
+          "end": 13.91,
+          "text": "San ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.33,
+          "end": 14.635000000000002,
+          "text": "Francisco. ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 14.94,
+          "end": 15.36,
+          "text": "And ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.36,
+          "end": 15.43,
+          "text": "a ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.43,
+          "end": 15.86,
+          "text": "project ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 15.86,
+          "end": 15.99,
+          "text": "that ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.0125,
+          "end": 16.1575,
+          "text": "I ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.165,
+          "end": 16.325,
+          "text": "had ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.3175,
+          "end": 16.4925,
+          "text": "shipped ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.47,
+          "end": 16.66,
+          "text": "that ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 16.66,
+          "end": 18.11,
+          "text": "summer ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 18.11,
+          "end": 18.35,
+          "text": "caught ",
+          "speaker": "Soleio Cuervo",
+          "transcriptId": "1000cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1000cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Soleio+Cuervo-OIAUfZBd_7w.mp4",
+      "startTime": 12.34,
+      "endTime": 18.35,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Soleio Cuervo-OIAUfZBd_7w.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 27,
+      "index": 28,
+      "type": "paper-cut",
+      "start": 167.943,
+      "end": 171.573,
+      "speaker": "James Jacoby",
+      "words": [
+        {
+          "start": 167.943,
+          "end": 169.883,
+          "text": "xactly, ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 169.883,
+          "end": 170.003,
+          "text": "and ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 170.003,
+          "end": 170.133,
+          "text": "what ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 170.133,
+          "end": 170.233,
+          "text": "were ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 170.233,
+          "end": 170.313,
+          "text": "you ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 170.313,
+          "end": 170.693,
+          "text": "thinking ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 170.693,
+          "end": 170.973,
+          "text": "about ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 170.973,
+          "end": 171.573,
+          "text": "it? ",
+          "speaker": "James Jacoby",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1001cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Nathaniel+Gleicher-F0ykdaOck_M.mp4",
+      "startTime": 167.943,
+      "endTime": 171.573,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Nathaniel Gleicher-F0ykdaOck_M.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "id": 28,
+      "index": 27,
+      "type": "paper-cut",
+      "start": 171.573,
+      "end": 175.993,
+      "speaker": "Nathan Gleicher",
+      "words": [
+        {
+          "start": 171.573,
+          "end": 171.723,
+          "text": "There ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 171.723,
+          "end": 171.843,
+          "text": "are ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 171.843,
+          "end": 171.953,
+          "text": "a ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 171.953,
+          "end": 172.243,
+          "text": "number ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 172.243,
+          "end": 172.303,
+          "text": "of ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 172.303,
+          "end": 172.553,
+          "text": "different ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 172.553,
+          "end": 172.813,
+          "text": "teams ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 172.813,
+          "end": 172.923,
+          "text": "that ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 172.923,
+          "end": 173.173,
+          "text": "work ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 173.173,
+          "end": 173.303,
+          "text": "on ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 173.303,
+          "end": 173.763,
+          "text": "information ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 173.763,
+          "end": 174.483,
+          "text": "operations ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 174.483,
+          "end": 175.173,
+          "text": "or ",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        },
+        {
+          "start": 175.173,
+          "end": 175.993,
+          "text": "man",
+          "speaker": "Nathan Gleicher",
+          "transcriptId": "1001cjw29xii80000ird74yb19swa"
+        }
+      ],
+      "transcriptId": "1001cjw29xii80000ird74yb19swa",
+      "labelId": [],
+      "src": "https://digital-paper-edit-demo.s3.eu-west-2.amazonaws.com/PBS-Frontline/The+Facebook+Dilemma+-+interviews/The+Facebook+Dilemma+-+Nathaniel+Gleicher-F0ykdaOck_M.mp4",
+      "startTime": 171.573,
+      "endTime": 175.993,
+      "reelName": "NA",
+      "clipName": "The Facebook Dilemma - Nathaniel Gleicher-F0ykdaOck_M.mp4",
+      "fps": 23.98,
+      "sampleRate": 44100,
+      "offset": "NA"
+    },
+    {
+      "type": "insert-point",
+      "text": "Insert Point to add selection",
+      "id": 29
+    }
+  ]
+}
