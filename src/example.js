@@ -18,6 +18,6 @@ fs.writeFileSync('./public/index.fountain', fountainText);
 /**
  *
  */
-const fountainToHtml = require('./index.js').fountainToHtml;
-const htmlPage = fountainToHtml(fountainText);
-fs.writeFileSync('./public/index.html', htmlPage);
+// const fountainToHtml = require('./index.js').fountainToHtml;
+// const htmlPage = fountainToHtml(fountainText);
+// fs.writeFileSync('./public/index.html', htmlPage);
