@@ -21,6 +21,7 @@ progress so far
 
 - [x] can convert programme script `json` to `.fountain` text (this can be opened in [Final Draft](https://store.finaldraft.com/all-final-draft-products.html),[beat](https://lmparppei.itch.io/beat)([github](https://github.com/lmparppei/Beat/)), and [other screen writing softwares](https://fountain.io/apps))
 - [x] can convert `.fountain` to `html`
+- [x] dpe to word `.docx` file that looks formatted like a screen play (does not use fountain tho)
 - [ ] ⌛ convert `.fountain` to pdf (see [example pdf output](./public/test.pdf) for progress so far )
 
 ## Setup
